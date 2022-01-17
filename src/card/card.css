@@ -11,8 +11,8 @@
   border: 1px solid #333333;
   box-shadow: 0 0 6px #333;
   margin: 2em 1em;
-  max-width: 500px;
-  padding: 2em 1em;
+  width: 500px;
+  padding: 2em;
 }
 
 img {

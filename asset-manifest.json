@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/airplane-listings/static/css/main.362871f4.css",
+    "main.js": "/airplane-listings/static/js/main.7efdfb3a.js",
+    "static/js/787.f4dbb6ed.chunk.js": "/airplane-listings/static/js/787.f4dbb6ed.chunk.js",
+    "index.html": "/airplane-listings/index.html",
+    "main.362871f4.css.map": "/airplane-listings/static/css/main.362871f4.css.map",
+    "main.7efdfb3a.js.map": "/airplane-listings/static/js/main.7efdfb3a.js.map",
+    "787.f4dbb6ed.chunk.js.map": "/airplane-listings/static/js/787.f4dbb6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.362871f4.css",
+    "static/js/main.7efdfb3a.js"
+  ]
+}

@@ -22,7 +22,7 @@ export const useList = (): Listing[] => {
 
   useEffect(() => {
     if (!listings || listings.length === 0){
-      axios.get('/planes.json')
+      axios.get('/airplane-listings/planes.json')
       .then(res => {
         const data = res.data as Listing[];
         console.log('retrieved listings from json');

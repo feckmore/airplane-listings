@@ -5,9 +5,9 @@
   background-color: #eeeeee;
   border: 1px solid #333333;
   box-shadow: 0 0 6px #333;
-  margin: 2em 1em;
-  width: 440px;
-  padding: 2.4em;
+  margin: 2rem 0.25rem;
+  width: 75vw;
+  padding: 2.4rem;
 }
 
 a {
@@ -16,8 +16,8 @@ a {
 
 img {
   object-fit: cover;
-  width: 440px;
-  height: 360px;
+  width: 75vw;
+  height: 65vw;
 }
 
 h2 {
